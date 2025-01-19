@@ -46,7 +46,6 @@ I implemented the project in Swift and ensured its correctness using a comprehen
 Step 1: Clone the Repository
 
 To get started, clone this repository to your local machine:
-```bash
 git clone https://github.com/aajain2/CS342-Project1.git
 cd CS342-Project1
 
