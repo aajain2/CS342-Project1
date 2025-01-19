@@ -41,27 +41,27 @@ I implemented the project in Swift and ensured its correctness using a comprehen
      - **Blood Compatibility**: Ensures blood compatibility logic is accurate for all blood types.
      - **Medication Properties**: Validates `daysRemaining` and `isCompleted` properties of `Medication`.
 
-### Running the Project
+## Running the Project
 
-Step 1: Clone the Repository
+### Step 1: Clone the Repository
 
 To get started, clone this repository to your local machine:
 git clone https://github.com/aajain2/CS342-Project1.git
 cd CS342-Project1
 
-Step 2: Open the Project in Xcode
+### Step 2: Open the Project in Xcode
 1. Launch Xcode.
 2. Open the project1.xcodeproj file in this directory.
 3. Select a simulator (e.g., iPhone 14) or a connected device.
 
-Step 3: Build and Run the Project
+### Step 3: Build and Run the Project
 1. Press Command + R to build and run the project.
 2. Verify that the project compiles and runs successfully.
 
-Step 4: Run the Tests
-Open the Test Navigator in Xcode (Shortcut: Command + 6).
-Run all tests using Command + U.
-Ensure all tests pass without errors.
+### Step 4: Run the Tests
+1. Open the Test Navigator in Xcode (Shortcut: Command + 6).
+2. Run all tests using Command + U.
+3. Ensure all tests pass without errors.
 
 ## Attribution
 
