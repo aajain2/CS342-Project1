@@ -41,7 +41,7 @@ I implemented the project in Swift and ensured its correctness using a comprehen
      - **Blood Compatibility**: Ensures blood compatibility logic is accurate for all blood types.
      - **Medication Properties**: Validates `daysRemaining` and `isCompleted` properties of `Medication`.
 
-## How to Run the Project
+### Running the Project
 
 Step 1: Clone the Repository
 
