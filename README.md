@@ -65,4 +65,4 @@ cd CS342-Project1
 
 ## Attribution
 
-ChatGPT was used to help me collect my thoughts for this README.
+I used AI to help me collect my thoughts for this README.
